@@ -21,5 +21,10 @@ This is a simple library management system implemented in Python with a Tkinter-
 
    ```bash
    git clone https://github.com/nourahsami/LibraryProject.git
+   
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
